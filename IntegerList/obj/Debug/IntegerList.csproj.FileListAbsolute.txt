@@ -1,0 +1,6 @@
+C:\Users\Marko\Documents\PrvaDZ\IntegerList\bin\Debug\IntegerList.exe.config
+C:\Users\Marko\Documents\PrvaDZ\IntegerList\obj\Debug\IntegerList.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Documents\PrvaDZ\IntegerList\bin\Debug\IntegerList.exe
+C:\Users\Marko\Documents\PrvaDZ\IntegerList\bin\Debug\IntegerList.pdb
+C:\Users\Marko\Documents\PrvaDZ\IntegerList\obj\Debug\IntegerList.exe
+C:\Users\Marko\Documents\PrvaDZ\IntegerList\obj\Debug\IntegerList.pdb
